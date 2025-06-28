@@ -1,5 +1,5 @@
 # Definição de variáveis (ambiente “local” do REST Client)
-@base_url = https://scaling-space-cod-rjr9prvr7x9cxxp6-8080.app.github.dev
+@base_url = https://verbose-adventure-ww96g9jv6rqc54vj-8080.app.github.dev
 
 ### 1. Criar novo usuário
 POST {{base_url}}/api/usuarios
